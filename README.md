@@ -30,10 +30,10 @@ A robust bare-metal firmware framework (leveraging STM32 HAL libraries) designed
   
 ## Video Demos & Functional Testing
 
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/52b48ae7-9a90-4be7-820a-6e83079b9a99" type="video/mp4">
-</video>
-https://github.com/user-attachments/assets/52b48ae7-9a90-4be7-820a-6e83079b9a99" type="video/mp4
+https://github.com/user-attachments/assets/52b48ae7-9a90-4be7-820a-6e83079b9a99
+
+
+
 
 
 
