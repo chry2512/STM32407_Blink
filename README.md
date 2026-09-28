@@ -30,7 +30,25 @@ A robust bare-metal firmware framework (leveraging STM32 HAL libraries) designed
   
 ## Video Demos & Functional Testing
 
+### 1. Core Functionality 
+
 https://github.com/user-attachments/assets/52b48ae7-9a90-4be7-820a-6e83079b9a99
+
+
+### 2. Low-Power & Stop Mode Management
+
+
+https://github.com/user-attachments/assets/093c3859-74e4-4fa6-afed-8e884a922466
+
+
+
+### 3. Error Handler 
+
+https://github.com/user-attachments/assets/76168107-6902-41b7-9138-8794068ad21a
+
+
+
+
 
 
 
